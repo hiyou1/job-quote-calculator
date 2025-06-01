@@ -1,0 +1,1 @@
+// This would contain the React code compiled from the JSX
